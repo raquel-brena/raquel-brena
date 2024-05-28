@@ -2,7 +2,6 @@
 
 - 🎓 Internet Technology and Electronics Technician
 - 🚀 Undergraduate Student in Information Technology (BIT) at UFRN/BR
-- 🌱 I’m currently learning React using the framework NextJS
 - 🔨 I'm updating my GitHub...
 
 <h3>Languages</h3>
