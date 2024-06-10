@@ -8,10 +8,10 @@
 
 ![image](https://github.com/raquel-brena/raquel-brena/assets/108936463/64260be6-d29d-4daf-b91d-52773ff10262)  `The best way to learn something is to build something`
 
-  - 🌟 Focused and working w/ fullstack web development<br>
-  - 🎓 Internet Technology (IMD/UFRN) and Electronics (IFRN) Technician<br>
-  - 🚀 Undergraduate Student in Information Technology (BIT) at UFRN/BR<br>
-  - 🎨 UX/UI design habilites
+- 🌟 Focused on working with full-stack web development
+- 🎓 Graduated in Internet Technology (IMD/UFRN) and Electronics (IFRN)
+- 🚀 Currently an undergraduate student in Information Technology (BIT) at UFRN/BR
+- 🎨 Proficient in UX/UI design
 
 <h3><i>skillset</i></h3>
 
