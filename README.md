@@ -4,9 +4,7 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer with coffee">
 
 
-<h3 style="color: #ff69b4;"> ✿ Check out my folio <a href="https://raquel-brena.github.io/" style="color: #ff69b4;">here</a> ✿</h3>
-
-![image](https://github.com/raquel-brena/raquel-brena/assets/108936463/64260be6-d29d-4daf-b91d-52773ff10262)  `The best way to learn something is to build something`
+![image](https://github.com/raquel-brena/raquel-brena/assets/108936463/64260be6-d29d-4daf-b91d-52773ff10262)   <h3 style="color: #ff69b4;">  Check out my folio <a href="https://raquel-brena.github.io/" style="color: #ff69b4;">here</a> </h3>
 
 - 🌟 Focused on working with full-stack web development
 - 🎓 Graduated in Internet Technology (IMD/UFRN) and Electronics (IFRN)
